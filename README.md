@@ -1,2 +1,4 @@
-# welfare-samstha
-A friend is need when friend in deed. But our motto helps to helpless people who are starwing in this place to live an another day even though they are not from our welfare scheme we still try to help  who are in need for help
+# Integrating_payments_gateway
+This Repo deals with the creation of a non-profited helping organization's website home page and integrating it to the Razorpay's payment gateway page at the backend.
+ 
+The deployment of this repository can be found in the following github page - https://github.com/ADARSH-41/Integrating_payments_gateway/deployments/activity_log?environment=github-pages
